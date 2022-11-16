@@ -6,5 +6,6 @@
     "lockdown",
     "Topnav",
     "TRBL"
-  ]
+  ],
+  "liveServer.settings.port": 5501
 }
